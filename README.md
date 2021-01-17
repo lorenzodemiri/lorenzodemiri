@@ -22,7 +22,7 @@ README!
 Work in Progress!
 
 ## Programming Languages
-<img src = 'https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white' width='30'/> <img src = '	https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white' width='30'/> <img src = 'https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/> 
+<img src = 'https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white' /> <img src = '	https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white' /> <img src = 'https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white'/> 
 
 ## Who am I?
  ```python
