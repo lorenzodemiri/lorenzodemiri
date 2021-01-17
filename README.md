@@ -1,8 +1,8 @@
-### Hey, Lorenzo Here! <img src="https://gph.is/st/M4QL9AY" width="25px">
+### Hey, Lorenzo Here! <img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" width="25px">
 
 
 
-<img src = 'https://gph.is/g/EJgkj7e' alt = 'Coding Cat' align='right'/>
+<img src = 'https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif' alt = 'Coding Cat' align='right'/>
 
 
 <p align='left'>
