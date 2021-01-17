@@ -2,7 +2,7 @@
 
 
 
-<img src = 'https://media.giphy.com/media/2KAGlmkPywhZS/giphy.gif' alt = 'Bugs' align='right'/>
+<img src = 'https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif' alt = 'Bugs' align='right'/>
 
 
 <p align='left'>
