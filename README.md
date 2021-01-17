@@ -1,4 +1,4 @@
-### Hey, Lorenzo Here! <img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" width="25px">
+## Hey, Lorenzo Here! <img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" width="25px">
 
 
 
@@ -18,5 +18,5 @@
   </a>&nbsp;&nbsp;
 
 </p>
-
-Working On my README!
+README!
+Work in Progress!
