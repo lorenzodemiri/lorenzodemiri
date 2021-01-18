@@ -7,7 +7,7 @@
 
 <p align='left'>
   
-  <a href="lorenzo.demiri96@gmail.com">
+  <a href="mailto:lorenzo.demiri96@gmail.com?subjetc = Github Contact">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/lorenzo.demiri">
