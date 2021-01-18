@@ -25,7 +25,12 @@ Work in Progress!
 <img src = 'https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white' />
 <img src = 'https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white' /> 
 <img src = 'https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white'/> 
+<img src = 'https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white'/> 
+<img src = 'https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white'/>
+<img src = 'https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white'/>
+<img src = 'https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white'/>  
 </p>
+
 
 ## Who am I?
  ```python
