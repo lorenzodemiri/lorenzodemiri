@@ -1,11 +1,11 @@
-## Hey, Lorenzo Here! <img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" width="25px">
+## Hey, Lorenzo Here!<img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" width="30px">
 
 
 
 <img src = 'https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif' alt = 'Bugs' align = 'right'/>
 
 <p align='left'>
-    <a href="mailto:lorenzo.demiri96@gmail.com?subjetc = Github Contact">
+    <a href="mailto:lorenzo.demiri96@gmail.com?subjetc=Github Contact">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   <a href="https://www.facebook.com/lorenzo.demiri/">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
@@ -17,10 +17,16 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>
 </p>
-README!
-Work in Progress!
 
-## IT Skills
+Welcome to my humble abode the IT world, I'm the type of person that like to make the world a better place... but they won't give me the source code.
+
+## Technologies I love
+- Artificial Intelligence
+- Cyber Security
+- Data Science
+- Backend WebDev
+
+## IT Skills!<img src="https://media.giphy.com/media/ksE9feSa2b4V2GYwY4/giphy.gif" width="30px">
 <p align = 'left'>
 <img src = 'https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white' />
 <img src = 'https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white' /> 
@@ -32,7 +38,9 @@ Work in Progress!
 </p>
 
 
-## Who am I?
+
+## Who am I<img src="https://media.giphy.com/media/l378xVg7JY3tefx3W/giphy.gif" width="20px">
+
  ```python
  class WhoAmI:
  	user = 'Lorenzo Demiri'
@@ -46,7 +54,7 @@ Work in Progress!
 			]
 	
 	def getCity():
-		return London_UnitedKingdom()
+		return London_UnitedKingdom(), Modena_Italy()
 	
 	def Ambitions():
 		AI_Engineering()
@@ -62,5 +70,11 @@ Work in Progress!
       day.sleep()
       if me.alive(): day.repeat()
 		# Assume 10 more awesome ambitions here  ;)
-	
  ```
+## Current Works<img src="https://media.giphy.com/media/WtZz78bteiFlbxoLvf/giphy.gif" width="30px">
+- I'm currently studying AI Engineering at Strive School👨‍💻, for building up my skills🌱and finally make my dream true, **AI** applied to **Cybersecurity** 
+
+- [Here](https://github.com/lorenzodemiri/AI-CyberSecurity)👈 on github you can find a repo containing the work that i'm doing to study the application of **AI** applied to **Cybersecurity**🤖. Be sure to check it out, and feel free to give me a feedback or if you're interested contact me.
+
+## Some Stats
+<img src="https://github-readme-stats.vercel.app/api?username=lorenzodemiri&theme=dracula&hide_border=true&bg_color=0d1117">
