@@ -2,7 +2,7 @@
 
 
 
-<img src = 'https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif' alt = 'Bugs' align = 'right'/>
+<img src = 'https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif' alt = 'Bugs' align = 'right' widht="50%"/>
 
 <p align='left'>
     <a href="mailto:lorenzo.demiri96@gmail.com?subjetc=Github Contact">
@@ -20,13 +20,13 @@
 
 Welcome to my humble abode the IT world, I'm the type of person that like to make the world a better place... but they won't give me the source code.
 
-## Technologies I love
+## Technologies I love<img src="https://media.giphy.com/media/vvcvtGPa4hSiN4TgeY/giphy.gif" width="30px">
 - Artificial Intelligence
 - Cyber Security
 - Data Science
 - Backend WebDev
 
-## IT Skills!<img src="https://media.giphy.com/media/ksE9feSa2b4V2GYwY4/giphy.gif" width="30px">
+## IT Skills<img src="https://media.giphy.com/media/ksE9feSa2b4V2GYwY4/giphy.gif" width="30px">
 <p align = 'left'>
 <img src = 'https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white' />
 <img src = 'https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white' /> 
@@ -71,7 +71,7 @@ Welcome to my humble abode the IT world, I'm the type of person that like to mak
       if me.alive(): day.repeat()
 		# Assume 10 more awesome ambitions here  ;)
  ```
-## Current Works <img src="https://media.giphy.com/media/WtZz78bteiFlbxoLvf/giphy.gif" width="30px">
+## Current Works<img src="https://media.giphy.com/media/WtZz78bteiFlbxoLvf/giphy.gif" width="30px">
 - I'm currently studying AI Engineering at Strive School👨‍💻, for building up my skills🌱and finally make my dream true, **AI** applied to **Cybersecurity** 
 
 - [Here](https://github.com/lorenzodemiri/AI-CyberSecurity)👈 on github you can find a repo containing the work that i'm doing to study the application of **AI** applied to **Cybersecurity**🤖. Be sure to check it out, and feel free to give me a feedback or if you're interested contact me.
