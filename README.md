@@ -1,4 +1,4 @@
-## Hey, Lorenzo Here!<img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" width="30px">
+## Hey, Lorenzo Here!<img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" width="40px">
 
 
 
