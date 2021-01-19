@@ -71,10 +71,10 @@ Welcome to my humble abode the IT world, I'm the type of person that like to mak
       if me.alive(): day.repeat()
 		# Assume 10 more awesome ambitions here  ;)
  ```
-## Current Works<img src="https://media.giphy.com/media/WtZz78bteiFlbxoLvf/giphy.gif" width="30px">
+## Current Works <img src="https://media.giphy.com/media/WtZz78bteiFlbxoLvf/giphy.gif" width="30px">
 - I'm currently studying AI Engineering at Strive School👨‍💻, for building up my skills🌱and finally make my dream true, **AI** applied to **Cybersecurity** 
 
 - [Here](https://github.com/lorenzodemiri/AI-CyberSecurity)👈 on github you can find a repo containing the work that i'm doing to study the application of **AI** applied to **Cybersecurity**🤖. Be sure to check it out, and feel free to give me a feedback or if you're interested contact me.
 
-## Some Stats
+## Some Stats <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px">
 <img src="https://github-readme-stats.vercel.app/api?username=lorenzodemiri&theme=dracula&hide_border=true&bg_color=0d1117">
