@@ -24,6 +24,7 @@ Welcome to my humble abode the IT world, I'm the type of person that like to mak
 - Data Science
 - Backend WebDev
 <img src = 'https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif' align='right' alt = 'Bugs' widht="50%"/>
+
 ## IT Skills<img src="https://media.giphy.com/media/ksE9feSa2b4V2GYwY4/giphy.gif" width="30px">
 <p align = 'left'>
 <img src = 'https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white' />
