@@ -1,12 +1,11 @@
-## Hey, Lorenzo Here!<img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" width="30px">
-
-
-
-<img src = 'https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif' alt = 'Bugs' align = 'right' widht="50%"/>
-
+# Hey, Lorenzo Here!<img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" width="30px">
+<a href="https://open.spotify.com/user/1176146729">
+  <img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" align='right'  widht="50%"/>
+</a>
 <p align='left'>
-    <a href="mailto:lorenzo.demiri96@gmail.com?subjetc=Github Contact">
+  <a href="mailto:lorenzo.demiri96@gmail.com?subjetc=Github Contact">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
   <a href="https://www.facebook.com/lorenzo.demiri/">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
@@ -17,13 +16,13 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>
 </p>
-
 Welcome to my humble abode the IT world, I'm the type of person that like to make the world a better place... but they won't give me the source code.
 
 ## Technologies I love<img src="https://media.giphy.com/media/vvcvtGPa4hSiN4TgeY/giphy.gif" width="30px">
 - Artificial Intelligence
 - Cyber Security
 - Data Science
+<img src = 'https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif' align='right' alt = 'Bugs' widht="50%"/>
 - Backend WebDev
 
 ## IT Skills<img src="https://media.giphy.com/media/ksE9feSa2b4V2GYwY4/giphy.gif" width="30px">
@@ -37,10 +36,7 @@ Welcome to my humble abode the IT world, I'm the type of person that like to mak
 <img src = 'https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white'/>  
 </p>
 
-
-
 ## Who am I<img src="https://media.giphy.com/media/l378xVg7JY3tefx3W/giphy.gif" width="20px">
-
  ```python
  class WhoAmI:
  	user = 'Lorenzo Demiri'
