@@ -1,4 +1,4 @@
-# Hey, Lorenzo Here!<img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" width="30px">
+## Hey, Lorenzo Here!<img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" width="30px">
 <a href="https://open.spotify.com/user/1176146729">
   <img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" align='right'  widht="50%"/>
 </a>
