@@ -23,7 +23,6 @@ Welcome to my humble abode the IT world, I'm the type of person that like to mak
 - Cyber Security
 - Data Science
 - Backend WebDev
-<img src = 'https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif' align='right' alt = 'Bugs' widht="50%"/>
 
 ## IT Skills<img src="https://media.giphy.com/media/ksE9feSa2b4V2GYwY4/giphy.gif" width="30px">
 <p align = 'left'>
