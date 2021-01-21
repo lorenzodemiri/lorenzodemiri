@@ -2,8 +2,7 @@
 
 
   <a href="https://open.spotify.com/user/1176146729" align='right'>
-    <figcaption>My Spotify</figcaption>
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=1176146729&cover_image=true&theme=novatorem" align='right'>
+	<img src="https://spotify-github-profile.vercel.app/api/view?uid=1176146729&cover_image=true&theme=novatorem" align='right'>
   </a>
 
 
