@@ -41,11 +41,11 @@ Welcome to my humble abode the IT world, I'm the type of person that like to mak
  	user = 'Lorenzo Demiri'
 	current_edu = "Strive School...AI Eng..."
 	hobbies = [
-				'Photography',
-				'Travelling',
-				'Watching Movies that no one knows'
+        'Photography',
+        'Travelling',
+        'Watching Movies that no one knows'
         'CyberSecurity'
-				'Being up all Night chasing that ONE BUG...'
+        'Being up all Night chasing that ONE BUG...'
 			]
 	
 	def getCity():
