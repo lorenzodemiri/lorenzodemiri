@@ -38,9 +38,9 @@ Welcome to my humble abode the IT world, I'm the type of person that like to mak
 ## Who am I<img src="https://media.giphy.com/media/l378xVg7JY3tefx3W/giphy.gif" width="20px">
  ```python
  class WhoAmI:
- 	user = 'Lorenzo Demiri'
-	current_edu = "Strive School...AI Eng..."
-	hobbies = [
+   user = 'Lorenzo Demiri'
+   current_edu = "Strive School...AI Eng..."
+   hobbies = [
         'Photography',
         'Travelling',
         'Watching Movies that no one knows'
