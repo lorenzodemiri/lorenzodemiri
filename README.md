@@ -2,7 +2,6 @@
 
 
   <a href="https://open.spotify.com/user/1176146729" align='right'>
-    <figcaption align='right'>My Spotify</figcaption>
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=1176146729&cover_image=true&theme=novatorem" align='right'>
   </a>
 
@@ -61,7 +60,7 @@ Welcome to my humble abode the IT world, I'm the type of person that like to mak
 		Cyber_Security()
 		Leaving_the_world_better()
     # Assume 10 more awesome ambitions here  ;)
-    
+
   def DailyRountine():
     import daytime as dt
     week = dt.week()
