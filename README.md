@@ -2,7 +2,8 @@
 
 
   <a href="https://open.spotify.com/user/1176146729" align='right'>
-	<img src="https://spotify-github-profile.vercel.app/api/view?uid=1176146729&cover_image=true&theme=novatorem" align='right'>
+    <figcaption align='right'>My Spotify</figcaption>
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=1176146729&cover_image=true&theme=novatorem" align='right'>
   </a>
 
 
@@ -59,7 +60,8 @@ Welcome to my humble abode the IT world, I'm the type of person that like to mak
 		AI_Engineering()
 		Cyber_Security()
 		Leaving_the_world_better()
-
+    # Assume 10 more awesome ambitions here  ;)
+    
   def DailyRountine():
     import daytime as dt
     week = dt.week()
@@ -68,7 +70,6 @@ Welcome to my humble abode the IT world, I'm the type of person that like to mak
       day.code()
       day.sleep()
       if me.alive(): day.repeat()
-		# Assume 10 more awesome ambitions here  ;)
  ```
 ## Current Works<img src="https://media.giphy.com/media/WtZz78bteiFlbxoLvf/giphy.gif" width="30px">
 - I'm currently studying AI Engineering at Strive School👨‍💻, for building up my skills🌱and finally make my dream true, **AI** applied to **Cybersecurity** 
