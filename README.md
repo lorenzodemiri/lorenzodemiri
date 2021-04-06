@@ -30,10 +30,12 @@ Welcome to my humble abode the IT world, I'm the type of person that like to mak
 
 ## IT Skills<img src="https://media.giphy.com/media/ksE9feSa2b4V2GYwY4/giphy.gif" width="30px">
 <p align = 'left'>
-<img src = 'https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white' />
-<img src = 'https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white' /> 
-<img src = 'https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white'/> 
-<img src = 'https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white'/> 
+<img alt="C" src = 'https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white' />
+<img alt="Java" src = 'https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white' /> 
+<img alt = "Python" src = 'https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white'/> 
+<img alt = "MySQL" src = 'https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white'/>
+<img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white"/>
+<img alt="PyTorch" src="https://img.shields.io/badge/PyTorch%20-%23EE4C2C.svg?&style=for-the-badge&logo=PyTorch&logoColor=white" />
 <img src = 'https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white'/>
 <img src = 'https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white'/>
 <img src = 'https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white'/>  
